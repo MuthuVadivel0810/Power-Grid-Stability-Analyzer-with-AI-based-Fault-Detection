@@ -1,0 +1,6 @@
+,No Fault,3-Phase,Line-Ground,Line-Line,DLine-Ground
+No Fault,40,0,0,0,0
+3-Phase,0,40,0,0,0
+Line-Ground,0,0,40,0,0
+Line-Line,0,0,0,40,0
+DLine-Ground,0,0,0,0,40

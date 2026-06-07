@@ -1,0 +1,6 @@
+model,test_acc_%,cv_mean_%,cv_std_%,train_time_s,is_best
+Random_Forest,100.0,100.0,0.0,3.47,True
+Gradient_Boosting,100.0,100.0,0.0,4.45,False
+MLP_Neural_Net,100.0,100.0,0.0,1.93,False
+SVM_RBF,100.0,100.0,0.0,1.81,False
+KNN,100.0,100.0,0.0,3.07,False

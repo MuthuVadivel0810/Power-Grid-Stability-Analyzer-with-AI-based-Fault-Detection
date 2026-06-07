@@ -1,0 +1,6 @@
+Bus,Name,Type,|V| (pu),θ (deg),P_gen (pu),Q_gen (pu),P_load(pu),Q_load(pu),Status
+1,Bus-1,Slack,1.06,0.0,1.2959,-0.0236,0.0,0.0,⚠ High Voltage
+2,Bus-2,PV,1.045,-2.7677,0.4,0.2506,0.2,0.1,✓ Normal
+3,Bus-3,PQ,1.02228,-4.9773,0.0,0.0,0.45,0.15,✓ Normal
+4,Bus-4,PQ,1.02154,-5.3088,0.0,0.0,0.4,0.05,✓ Normal
+5,Bus-5,PQ,1.01557,-6.1291,0.0,0.0,0.6,0.1,✓ Normal

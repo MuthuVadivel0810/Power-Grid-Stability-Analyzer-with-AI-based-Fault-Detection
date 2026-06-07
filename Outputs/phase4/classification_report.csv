@@ -1,0 +1,8 @@
+,Precision,Recall,F1-Score,Support
+No Fault,1.0,1.0,1.0,40.0
+3-Phase,1.0,1.0,1.0,40.0
+Line-Ground,1.0,1.0,1.0,40.0
+Line-Line,1.0,1.0,1.0,40.0
+DLine-Ground,1.0,1.0,1.0,40.0
+macro avg,1.0,1.0,1.0,200.0
+weighted avg,1.0,1.0,1.0,200.0
